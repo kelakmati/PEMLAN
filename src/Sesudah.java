@@ -118,5 +118,6 @@ public class Sesudah {
         System.out.println("Total Harga Barang : Rp" + formatRupiah.format(total));
         System.out.println("Diskon             : Rp" + formatRupiah.format(diskon));
         System.out.println("Total Bayar        : Rp" + formatRupiah.format(totalBayar));
+        System.out.println("AKU CINTA HMIF");
     }
 }
